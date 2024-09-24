@@ -13,8 +13,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0393-utf-8-validation) |
+| [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0393-utf-8-validation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
