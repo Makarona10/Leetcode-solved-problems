@@ -30,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
