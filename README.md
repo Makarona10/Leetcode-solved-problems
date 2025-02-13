@@ -34,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
