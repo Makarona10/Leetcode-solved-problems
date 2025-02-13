@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0393-utf-8-validation](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0393-utf-8-validation) |
 | [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
 ## Bit Manipulation
@@ -29,11 +30,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
