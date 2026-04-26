@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0393-utf-8-validation](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0393-utf-8-validation) |
 | [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
+| [1528-shuffle-string](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1205-defanging-an-ip-address) |
 | [1507-reformat-date](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1507-reformat-date) |
+| [1528-shuffle-string](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
