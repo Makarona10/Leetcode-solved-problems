@@ -37,12 +37,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1205-defanging-an-ip-address) |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
