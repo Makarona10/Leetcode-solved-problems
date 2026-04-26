@@ -11,27 +11,25 @@
  */
 
 function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
-  const head = l1;
-  let prev: ListNode | null = null;
-  let remainder = 0;
-  while (l1) {
-    l1.val = l1.val + (l2?.val || 0) + remainder;
-    remainder = Math.floor(l1.val / 10)
-    l1.val = l1.val % 10;
-    prev = l1;
-    l1 = l1.next;
-    l2 = l2?.next || null;
-    if (!l1 && l2) {
-      prev.next = l2;
-      l1 = l2;
-      l2 = null;
+    const head = l1;
+    let prev: ListNode | null = null;
+    let remainder = 0;
+    while (l1) {
+        l1.val = l1.val + (l2?.val || 0) + remainder;
+        remainder = Math.floor(l1.val / 10)
+        l1.val = l1.val % 10;
+        prev = l1;
+        l1 = l1.next;
+        l2 = l2?.next || null;
+        if (!l1 && l2) {
+            prev.next = l2;
+            l1 = l2;
+            l2 = null;
+        }
+        if (remainder && !l1) {
+            prev.next = new ListNode(remainder)
+        }
     }
-    if (remainder && !l1) {
-      l1 = new ListNode(remainder)
-      prev.next = l1;
-      remainder = 0;
-    }
-  }
 
-  return head;
+    return head;
 };
