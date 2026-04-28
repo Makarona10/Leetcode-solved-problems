@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0393-utf-8-validation](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0393-utf-8-validation) |
 | [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
 | [1528-shuffle-string](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1528-shuffle-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0463-island-perimeter) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/1013-fibonacci-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -84,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sorting
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Makarona10/Leetcode-solved-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
